@@ -28,8 +28,7 @@
 - 🌱 I’m currently learning more about Laravel,php,Mongodb.
 - 👯 I’m looking to collaborate on web development projects.
 
-[![website](https://img.shields.io/badge/Personal%20Project-Foodblog-2648ff?style=flat-square&logo=Django)](https://rah070-foodblog.herokuapp.com/all_post)
-
+<a href="https://rah070-foodblog.herokuapp.com/all_post" target="_blank"> <img src="https://img.shields.io/badge/Personal%20Project-Foodblog-2648ff?style=flat-square&logo=Django" alt="django"/> </a> 
 ## **Languages and Tools:**  
 <p align="left"> 
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
