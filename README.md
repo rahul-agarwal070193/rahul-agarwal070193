@@ -1,3 +1,4 @@
+## 🤠  Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <h1 align="center">Hi 👋, I'm Rahul Agarwal</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-agarwal070193&label=Views&color=blue&style=plastic" alt="rahul-agarwal070193" /> </p>
